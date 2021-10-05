@@ -12,3 +12,4 @@ The following are findings about the vine and non-vine reviews:
 - 5-star reviews account for 40% of the Vine reviews, and 30% of the non-Vine reviews 
 
 ### Summary 
+Based on the findings above, there does not seem to be much bias in the overall reviews of this dataset. Another possible analysis that could be done to prove this would be to redo the above analyses for each star review to see if there is bias there. 
